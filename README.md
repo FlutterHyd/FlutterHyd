@@ -4,6 +4,7 @@
 
 Flutter Hyderabad Community is a group of Flutter enthusiasts who are dedicated to sharing their knowledge and helping each other grow in the field. The community was started in Hyderabad, India and has grown to be a vibrant community of developers, designers, and enthusiasts who are passionate about Flutter.
 
+---
 
 <!-- All meetups conducted -->
 
@@ -14,6 +15,9 @@ Flutter Hyderabad Community is a group of Flutter enthusiasts who are dedicated 
 | First Meetup | 2nd October 2021 | CoKarma - Coworking Space | **Hema Sai Charan** - _Integration of Google Admob in Flutter_<br><br>**Yaswanth Kumar(Minnu)** - _Why UI/UX is so important?_<br><br>**Jitender Bhati** - _Flutter Unit Testing_<br><br>**Karthik Ponnam** - _Create your own Flutter plugin_ | Slides (_Uploading_) | _Uploading..._ |
 | Second Meetup | 17th December 2021 | EPAM | **Yaswanth Kumar(Minnu)** - _Create a Full-stack application using Serverpod_<br><br>**Aditya Mulgundkar** - _Flutter meets Hardware_<br><br>**Hema Sai Charan** - _Roadmap to Flutter_<br><br>**Mohammed Moinuddin** - _Flutter apps powered by Machine Learning_ | Slides (_Uploading_) | _Uploading..._ |
 | Third Meetup (Flutter Forward Extended - Hyd) | 4th February 2023 | Colruyt Group India | **Harshith** - _Publish apps in linux snapstore_<br><br>**Karthik Nagapuri & Sai Krishna** - _Location aware apps with Flutter using G-maps_<br><br>**Karthik Ponnam** - _State management with riverpod_<br><br>**Mohammed Moinuddin** - _DApps with Flutter_ | [Slides here](https://drive.google.com/drive/folders/1dSHVluH3z-Z1HH80G3IF6FCUanSImkDL?usp=share_link) | [Check out here](https://drive.google.com/drive/folders/15hyhczQ31Hb5gK-5zyrDVF7eQEDKXJ1Z?usp=share_link) |
+| Fourth Meetup (Flutter Forward Extended - Hyd) | 6th August 2023 | ThoughtWorks | **Yaswanth Kumar(Minnu)** - _The Future of App Updates for Flutter_<br><br>**Sriranjani Ramakrishnan** - _Why Learning Agility is need of the hour?_<br><br>**Vaishnavi Ambidi** - _Performance Optimization in Flutter App_<br><br>**Mohammed Moinuddin** - _Make the dino game with Flutter_ | [Slides here](https://drive.google.com/drive/folders/1AMwuJJnsNeyNStl6YMhb23eKysE9FTRp?usp=sharing) | [Check out here](https://drive.google.com/drive/folders/1XzE2DWbk3iF_d_HEWUqeuO8IOOGQV1T_?usp=sharing) |
+
+---
 
 <!-- Collaborations -->
 
@@ -23,8 +27,10 @@ Flutter Hyderabad Community is a group of Flutter enthusiasts who are dedicated 
 | --------- | ---- | -------- |
 | Anurag University - Hyd | 15th, 18th December 2022 | [View them here](https://drive.google.com/drive/folders/1bPYpu0kvFvU0_0W7PjXORsYOinwfPPjR?usp=sharing) |
 | VJIT - Hyd | 21st January 2023 | [View them here](https://drive.google.com/drive/folders/1BrFNmS62Htt3ac59QdL8myIIBWf7JZQG?usp=sharing) |
+| GNI - Hyd | 18th March 2023 | Uploading... |
+| MLRIT - Hyd | 6th, 7th May 2023 | [View them here](https://drive.google.com/drive/folders/16dcllC9QjbLU62mnkCG5H0A9CApQxm3i?usp=sharing) |
 
-
+---
 
 <!-- Flutter Hyderabad Community contacts -->
 
