@@ -25,10 +25,11 @@ Flutter Hyderabad Community is a group of Flutter enthusiasts who are dedicated 
 
 | Community | Date | Photos |
 | --------- | ---- | -------- |
-| Anurag University - Hyd | 15th, 18th December 2022 | [View them here](https://drive.google.com/drive/folders/1bPYpu0kvFvU0_0W7PjXORsYOinwfPPjR?usp=sharing) |
-| VJIT - Hyd | 21st January 2023 | [View them here](https://drive.google.com/drive/folders/1BrFNmS62Htt3ac59QdL8myIIBWf7JZQG?usp=sharing) |
-| GNI - Hyd | 18th March 2023 | [View them here](https://drive.google.com/drive/folders/1Ak7-drhE-kDZ10Oyq67HOlQJNspAbDmg?usp=sharing) |
-| MLRIT - Hyd | 6th, 7th May 2023 | [View them here](https://drive.google.com/drive/folders/16dcllC9QjbLU62mnkCG5H0A9CApQxm3i?usp=sharing) |
+| Anurag University - Hyd | 15th, 18th December, 2022 | [View them here](https://drive.google.com/drive/folders/1bPYpu0kvFvU0_0W7PjXORsYOinwfPPjR?usp=sharing) |
+| VJIT - Hyd | 21st January, 2023 | [View them here](https://drive.google.com/drive/folders/1BrFNmS62Htt3ac59QdL8myIIBWf7JZQG?usp=sharing) |
+| GNI - Hyd | 18th March, 2023 | [View them here](https://drive.google.com/drive/folders/1Ak7-drhE-kDZ10Oyq67HOlQJNspAbDmg?usp=sharing) |
+| MLRIT - Hyd | 6th, 7th May, 2023 | [View them here](https://drive.google.com/drive/folders/16dcllC9QjbLU62mnkCG5H0A9CApQxm3i?usp=sharing) |
+| KLU - Hyd | 19th August, 2023 | Uploading... |
 
 ---
 
