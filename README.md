@@ -30,6 +30,7 @@ Flutter Hyderabad Community is a group of Flutter enthusiasts who are dedicated 
 | GNI - Hyd | 18th March, 2023 | [View them here](https://drive.google.com/drive/folders/1Ak7-drhE-kDZ10Oyq67HOlQJNspAbDmg?usp=sharing) |
 | MLRIT - Hyd | 6th, 7th May, 2023 | [View them here](https://drive.google.com/drive/folders/16dcllC9QjbLU62mnkCG5H0A9CApQxm3i?usp=sharing) |
 | KLU - Hyd | 19th August, 2023 | Uploading... |
+| VIIT - Duvvada | 26th August, 2023 | [View them here](https://drive.google.com/drive/folders/1UTOBWL6BywUwDIwqGWGpY9NbpcKA4DXH?usp=sharing) |
 
 ---
 
