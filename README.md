@@ -58,16 +58,6 @@ Flutter Hyderabad Community is a group of Flutter enthusiasts who are dedicated 
     </td>
 </tr>
 
-<br>
-<br>
-
-<tr>
-    <td><img align="center" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/1458075?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d"></td>
-    <td>
-        <b>Ramesh Emandi</b> - <a href="https://twitter.com/_ramesh_emandi_">Twitter</a> | <a href="https://github.com/ramesh-emandi">Github</a> | <a href="https://linkedin.com/in/rameshemandi">LinkedIn</a> | <a href="mailto:eramesh6@gmail.com">Gmail</a>
-    </td>
-</tr>
-
 ---
 
 <p align="center">Thanks every one who made this community grow larger and larger in a short while.</p>
